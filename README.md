@@ -1,7 +1,9 @@
 # TMEM175, SCARB2 and CTSB associations with Parkinson's disease risk across populations
 
 `GP2 ❤️ Open Science 😍`
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/nnnnn/zenodo.nnnnn.svg)](https://doi.org/nnnnn/zenodo.nnnnn)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15799510.svg)](https://doi.org/10.5281/zenodo.15799510) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
 **Last Updated:** June 2025
 
 ## Summary
