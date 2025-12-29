@@ -24,12 +24,6 @@ All data was using GP2 release 10 ([10.5281/zenodo.15748014](https://doi.org/10.
 ## Citation
 *(pending publication)*
 
-## Tables
-*(pending publication)*
-
-## Figures
-*(pending publication)*
-
 ## Repository Orientation
 - The `analyses/` directory includes all analyses discussed in the manuscript.
  -  The `GP2/` directory includes 3 notebooks on processing and analyzing GP2 Neuobooster array data from release 10.
